@@ -1,0 +1,3 @@
+create database fullstack;
+use fullstack;
+select * from user;
